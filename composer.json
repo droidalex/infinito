@@ -1,10 +1,11 @@
 {
   "name": "caceta",
   "description": "uma grande bosta"
+}
 {
     "require": {
         "php": ">=5.3.2"
 }
 
 
-}
+
